@@ -1,3 +1,4 @@
+![DownloadsBadge](https://img.shields.io/github/downloads/WifiRouterYT/YTDownloader/total?style=for-the-badge)
 # YTDownloader
 A simple Python YouTube downloader with playlist support
 
